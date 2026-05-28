@@ -6,6 +6,17 @@ h1{
     font-size: 60px;
     text-align: center;
 }
-p{color: black;
-font-size: 30px;
+p{
+   color: rgb(255, 251, 251);
+   font-size: 30px;
+   text-align: center;
+} 
+img{
+    width: 30%;
+    margin-left: 500px;
+    border: 10px dotted rgb(148, 158, 192);
+
+}
+    margin-left: 500px;
+    border:10px dotted rgb(73, 73, 134);
 }
