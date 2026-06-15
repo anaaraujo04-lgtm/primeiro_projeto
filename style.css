@@ -1,22 +1,39 @@
 body{
-    background-color: rgb(188, 211, 243);
+    background-color: rgb(159, 184, 218);
 }
 h1{ 
-    color: rgb(11, 9, 116);
+    color: rgb(64, 71, 139);
     font-size: 60px;
     text-align: center;
 }
 p{
-   color: rgb(255, 251, 251);
+   color: rgb(0, 0, 0);
    font-size: 30px;
    text-align: center;
 } 
 img{
-    width: 30%;
-    margin-left: 645px;
-    border: 10px dotted rgb(148, 158, 192);
+    width:30%;
+    margin-left: 650px;
+    border: 10px solid rgb(113, 135, 177);
 
-}   
-    width:15%
+} 
+imghtml{
+      width:15%;
     margin-left: 500px;
-    border:10px dotted rgb(73, 73, 134);
+    border: 10px solid rgb(73, 73, 134); 
+} 
+  
+
+ .img_cabecalho{  
+    height: 100px;
+    width: 100px;
+    transition: 0.3s;
+}
+.img_cabecalho:hover{
+    opacity: 0.8;
+}
+header{
+display: flex;
+background-color: aliceblue;
+padding: 10px;
+}
